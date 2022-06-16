@@ -1,0 +1,3529 @@
+Started the round 1
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S5', 'S9', 'CJ'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 1 (stack = {'bot': 990, 'me0': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "raise:246.25"
+"me0" declared "fold:0"
+"['bot']" won the round 2 (stack = {'bot': 999.75, 'me0': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C8', 'HK', 'CQ'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C8', 'HK', 'CQ', 'SQ'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C8', 'HK', 'CQ', 'SQ', 'S2'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 3 (stack = {'bot': 1009.75, 'me0': 990})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "raise:251.1875"
+"me0" declared "fold:0"
+"['bot']" won the round 4 (stack = {'bot': 1019.5625, 'me0': 980})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me0" declared "raise:65"
+"bot" declared "fold:0"
+"['me0']" won the round 5 (stack = {'bot': 1009.5625, 'me0': 990})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "call:10"
+Street "flop" started. (community card = ['C4', 'HJ', 'H4'])
+"bot" declared "raise:251.140625"
+"me0" declared "fold:0"
+"['bot']" won the round 6 (stack = {'bot': 1019.421875, 'me0': 980})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'HK', 'S9'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 7 (stack = {'bot': 1009.421875, 'me0': 990})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "raise:65"
+"bot" declared "fold:0"
+"['me0']" won the round 8 (stack = {'bot': 999.421875, 'me0': 1000})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D5', 'H9', 'H4'])
+"me0" declared "call:0"
+"bot" declared "raise:247.35546875"
+"me0" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 1009.06640625, 'me0': 990})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "raise:65"
+"bot" declared "fold:0"
+"['me0']" won the round 10 (stack = {'bot': 999.06640625, 'me0': 1000})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'DK', 'H4'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 11 (stack = {'bot': 989.06640625, 'me0': 1010})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "call:10"
+Street "flop" started. (community card = ['D3', 'HJ', 'CT'])
+"bot" declared "call:0"
+"me0" declared "call:0"
+Street "turn" started. (community card = ['D3', 'HJ', 'CT', 'S8'])
+"bot" declared "fold:0"
+"['me0']" won the round 12 (stack = {'bot': 979.06640625, 'me0': 1020})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D6', 'D3', 'ST'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D6', 'D3', 'ST', 'HQ'])
+"me0" declared "call:0"
+"bot" declared "raise:242.2666015625"
+"me0" declared "fold:0"
+"['bot']" won the round 13 (stack = {'bot': 988.7998046875, 'me0': 1010})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "call:10"
+Street "flop" started. (community card = ['S7', 'D3', 'D7'])
+"bot" declared "call:0"
+"me0" declared "call:0"
+Street "turn" started. (community card = ['S7', 'D3', 'D7', 'C7'])
+"bot" declared "raise:245.949951171875"
+"me0" declared "raise:491.89990234375"
+"bot" declared "raise:245.949951171875"
+"['me0']" won the round 14 (stack = {'bot': 732.849853515625, 'me0': 1265.10009765625})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D4', 'H4', 'CK'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D4', 'H4', 'CK', 'D3'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D4', 'H4', 'CK', 'D3', 'D6'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 15 (stack = {'bot': 722.849853515625, 'me0': 1275.10009765625})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "call:10"
+Street "flop" started. (community card = ['S3', 'H6', 'S6'])
+"bot" declared "fold:0"
+"['me0']" won the round 16 (stack = {'bot': 712.849853515625, 'me0': 1285.10009765625})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D5', 'H6', 'S4'])
+"me0" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D5', 'H6', 'S4', 'H8'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 17 (stack = {'bot': 702.849853515625, 'me0': 1295.10009765625})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "raise:65"
+"bot" declared "fold:0"
+"['me0']" won the round 18 (stack = {'bot': 692.849853515625, 'me0': 1305.10009765625})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me0" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DK', 'DJ', 'DQ'])
+"me0" declared "call:0"
+"bot" declared "fold:0"
+"['me0']" won the round 19 (stack = {'bot': 682.849853515625, 'me0': 1315.10009765625})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me0" declared "call:10"
+Street "flop" started. (community card = ['S3', 'H5', 'S7'])
+"bot" declared "call:0"
+"me0" declared "call:0"
+Street "turn" started. (community card = ['S3', 'H5', 'S7', 'S4'])
+"bot" declared "fold:0"
+"['me0']" won the round 20 (stack = {'bot': 672.849853515625, 'me0': 1325.10009765625})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "fold:0"
+"['me1']" won the round 1 (stack = {'bot': 990, 'me1': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'S5', 'D6'])
+"bot" declared "raise:246.25"
+"me1" declared "fold:0"
+"['bot']" won the round 2 (stack = {'bot': 999.75, 'me1': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'H2', 'S7'])
+"me1" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C5', 'H2', 'S7', 'D8'])
+"me1" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C5', 'H2', 'S7', 'D8', 'S9'])
+"me1" declared "call:0"
+"bot" declared "fold:0"
+"['me1']" won the round 3 (stack = {'bot': 989.75, 'me1': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['SA', 'SJ', 'CA'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['SA', 'SJ', 'CA', 'C4'])
+"bot" declared "fold:0"
+"['me1']" won the round 4 (stack = {'bot': 979.75, 'me1': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me1" declared "raise:65"
+"bot" declared "fold:0"
+"['me1']" won the round 5 (stack = {'bot': 969.75, 'me1': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['ST', 'D8', 'C7'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['ST', 'D8', 'C7', 'SJ'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "river" started. (community card = ['ST', 'D8', 'C7', 'SJ', 'C9'])
+"bot" declared "call:0"
+"me1" declared "raise:204"
+"bot" declared "call:204"
+"['me1']" won the round 6 (stack = {'bot': 755.75, 'me1': 1244})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S7', 'C7', 'D5'])
+"me1" declared "raise:246"
+"bot" declared "fold:0"
+"['me1']" won the round 7 (stack = {'bot': 745.75, 'me1': 1254})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['S6', 'D6', 'H7'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['S6', 'D6', 'H7', 'H8'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "river" started. (community card = ['S6', 'D6', 'H7', 'H8', 'HJ'])
+"bot" declared "raise:185.1875"
+"me1" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 755.5625, 'me1': 1244})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CA', 'D2', 'C8'])
+"me1" declared "call:0"
+"bot" declared "raise:186.390625"
+"me1" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 765.171875, 'me1': 1234})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['HA', 'D7', 'SA'])
+"bot" declared "raise:190.04296875"
+"me1" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 775.12890625, 'me1': 1224})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me1" declared "raise:65"
+"bot" declared "fold:0"
+"['me1']" won the round 11 (stack = {'bot': 765.12890625, 'me1': 1234})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['S8', 'C9', 'S3'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['S8', 'C9', 'S3', 'DA'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "river" started. (community card = ['S8', 'C9', 'S3', 'DA', 'D6'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+"['me1']" won the round 12 (stack = {'bot': 755.12890625, 'me1': 1244})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'S6', 'DT'])
+"me1" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H3', 'S6', 'DT', 'HQ'])
+"me1" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H3', 'S6', 'DT', 'HQ', 'DA'])
+"me1" declared "call:0"
+"bot" declared "call:0"
+"['me1']" won the round 13 (stack = {'bot': 745.12890625, 'me1': 1254})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['C3', 'CK', 'SJ'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['C3', 'CK', 'SJ', 'DK'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "river" started. (community card = ['C3', 'CK', 'SJ', 'DK', 'SA'])
+"bot" declared "fold:0"
+"['me1']" won the round 14 (stack = {'bot': 735.12890625, 'me1': 1264})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me1" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DT', 'CA', 'S4'])
+"me1" declared "call:0"
+"bot" declared "raise:181.2822265625"
+"me1" declared "fold:0"
+"['bot']" won the round 15 (stack = {'bot': 744.8466796875, 'me1': 1254})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['H7', 'C4', 'S8'])
+"bot" declared "fold:0"
+"['me1']" won the round 16 (stack = {'bot': 734.8466796875, 'me1': 1264})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me1" declared "raise:65"
+"bot" declared "fold:0"
+"['me1']" won the round 17 (stack = {'bot': 724.8466796875, 'me1': 1274})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['DK', 'H9', 'D6'])
+"bot" declared "fold:0"
+"['me1']" won the round 18 (stack = {'bot': 714.8466796875, 'me1': 1284})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me1" declared "raise:65"
+"bot" declared "fold:0"
+"['me1']" won the round 19 (stack = {'bot': 704.8466796875, 'me1': 1294})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me1" declared "call:10"
+Street "flop" started. (community card = ['C9', 'D6', 'SJ'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "turn" started. (community card = ['C9', 'D6', 'SJ', 'H4'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+Street "river" started. (community card = ['C9', 'D6', 'SJ', 'H4', 'SQ'])
+"bot" declared "call:0"
+"me1" declared "call:0"
+"['me1']" won the round 20 (stack = {'bot': 694.8466796875, 'me1': 1304})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S9', 'H9', 'D2'])
+"me2" declared "raise:330"
+"bot" declared "fold:0"
+"['me2']" won the round 1 (stack = {'bot': 990, 'me2': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "raise:65"
+"bot" declared "fold:0"
+"['me2']" won the round 2 (stack = {'bot': 980, 'me2': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "raise:242.5"
+"me2" declared "fold:0"
+"['bot']" won the round 3 (stack = {'bot': 989.5, 'me2': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'C3', 'D8'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "turn" started. (community card = ['CJ', 'C3', 'D8', 'C7'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "river" started. (community card = ['CJ', 'C3', 'D8', 'C7', 'HK'])
+"bot" declared "fold:0"
+"['me2']" won the round 4 (stack = {'bot': 979.5, 'me2': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H2', 'S5', 'H4'])
+"me2" declared "call:0"
+"bot" declared "fold:0"
+"['me2']" won the round 5 (stack = {'bot': 969.5, 'me2': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "raise:241.125"
+"me2" declared "fold:0"
+"['bot']" won the round 6 (stack = {'bot': 979.375, 'me2': 1020})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C3', 'D8', 'CT'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C3', 'D8', 'CT', 'D7'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C3', 'D8', 'CT', 'D7', 'DK'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+"['me2']" won the round 7 (stack = {'bot': 969.375, 'me2': 1030})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['C3', 'C2', 'C7'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "turn" started. (community card = ['C3', 'C2', 'C7', 'HA'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "river" started. (community card = ['C3', 'C2', 'C7', 'HA', 'CK'])
+"bot" declared "raise:241.09375"
+"me2" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 979.28125, 'me2': 1020})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H2', 'DQ', 'C9'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H2', 'DQ', 'C9', 'H3'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H2', 'DQ', 'C9', 'H3', 'S5'])
+"me2" declared "call:0"
+"bot" declared "fold:0"
+"['me2']" won the round 9 (stack = {'bot': 969.28125, 'me2': 1030})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['D6', 'S4', 'HA'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "turn" started. (community card = ['D6', 'S4', 'HA', 'D3'])
+"bot" declared "fold:0"
+"['me2']" won the round 10 (stack = {'bot': 959.28125, 'me2': 1040})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me2" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['C3', 'H5', 'S5'])
+"me2" declared "call:0"
+"bot" declared "fold:0"
+"['me2']" won the round 11 (stack = {'bot': 894.28125, 'me2': 1105})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['CT', 'SJ', 'C7'])
+"bot" declared "raise:222.3203125"
+"me2" declared "fold:0"
+"['bot']" won the round 12 (stack = {'bot': 903.9609375, 'me2': 1095})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S5', 'SJ', 'C5'])
+"me2" declared "call:0"
+"bot" declared "raise:223.490234375"
+"me2" declared "fold:0"
+"['bot']" won the round 13 (stack = {'bot': 913.470703125, 'me2': 1085})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['D3', 'HQ', 'CT'])
+"bot" declared "raise:227.11767578125"
+"me2" declared "fold:0"
+"['bot']" won the round 14 (stack = {'bot': 923.35302734375, 'me2': 1075})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'H2', 'C4'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'H2', 'C4', 'C9'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DQ', 'H2', 'C4', 'C9', 'C5'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 15 (stack = {'bot': 933.35302734375, 'me2': 1065})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['SA', 'H9', 'CT'])
+"bot" declared "fold:0"
+"['me2']" won the round 16 (stack = {'bot': 923.35302734375, 'me2': 1075})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me2" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H4', 'D8', 'H3'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H4', 'D8', 'H3', 'SQ'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H4', 'D8', 'H3', 'SQ', 'D7'])
+"me2" declared "call:0"
+"bot" declared "call:0"
+"['me2']" won the round 17 (stack = {'bot': 913.35302734375, 'me2': 1085})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['DJ', 'HA', 'HJ'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "turn" started. (community card = ['DJ', 'HA', 'HJ', 'H5'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "river" started. (community card = ['DJ', 'HA', 'HJ', 'H5', 'ST'])
+"bot" declared "fold:0"
+"['me2']" won the round 18 (stack = {'bot': 903.35302734375, 'me2': 1095})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me2" declared "raise:65"
+"bot" declared "fold:0"
+"['me2']" won the round 19 (stack = {'bot': 893.35302734375, 'me2': 1105})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me2" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'H4', 'HK'])
+"bot" declared "call:0"
+"me2" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'H4', 'HK', 'C3'])
+"bot" declared "raise:222.0882568359375"
+"me2" declared "fold:0"
+"['bot']" won the round 20 (stack = {'bot': 903.2647705078125, 'me2': 1095})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C2', 'DA', 'S8'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C2', 'DA', 'S8', 'S2'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C2', 'DA', 'S8', 'S2', 'DQ'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 1 (stack = {'bot': 1010, 'me3': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['C3', 'H8', 'D3'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "turn" started. (community card = ['C3', 'H8', 'D3', 'CJ'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "river" started. (community card = ['C3', 'H8', 'D3', 'CJ', 'H9'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+"['me3']" won the round 2 (stack = {'bot': 1000, 'me3': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me3" declared "raise:65"
+"bot" declared "fold:0"
+"['me3']" won the round 3 (stack = {'bot': 990, 'me3': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['SJ', 'C8', 'C5'])
+"bot" declared "fold:0"
+"['me3']" won the round 4 (stack = {'bot': 925, 'me3': 1075})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "fold:0"
+"['me3']" won the round 5 (stack = {'bot': 915, 'me3': 1085})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['H2', 'CJ', 'D6'])
+"bot" declared "fold:0"
+"['me3']" won the round 6 (stack = {'bot': 905, 'me3': 1095})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D6', 'DT', 'C3'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D6', 'DT', 'C3', 'D2'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D6', 'DT', 'C3', 'D2', 'D3'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 7 (stack = {'bot': 915, 'me3': 1085})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['H6', 'C4', 'HJ'])
+"bot" declared "fold:0"
+"['me3']" won the round 8 (stack = {'bot': 905, 'me3': 1095})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CT', 'H6', 'C8'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CT', 'H6', 'C8', 'C5'])
+"me3" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CT', 'H6', 'C8', 'C5', 'DJ'])
+"me3" declared "call:0"
+"bot" declared "fold:0"
+"['me3']" won the round 9 (stack = {'bot': 895, 'me3': 1105})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['H6', 'HJ', 'CK'])
+"bot" declared "raise:222.5"
+"me3" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 904.5, 'me3': 1095})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "fold:0"
+"['me3']" won the round 11 (stack = {'bot': 894.5, 'me3': 1105})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['H3', 'SJ', 'D9'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "turn" started. (community card = ['H3', 'SJ', 'D9', 'DQ'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "river" started. (community card = ['H3', 'SJ', 'D9', 'DQ', 'CA'])
+"bot" declared "fold:0"
+"['me3']" won the round 12 (stack = {'bot': 884.5, 'me3': 1115})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SK', 'CA', 'H2'])
+"me3" declared "call:0"
+"bot" declared "fold:0"
+"['me3']" won the round 13 (stack = {'bot': 874.5, 'me3': 1125})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['D2', 'D3', 'HK'])
+"bot" declared "fold:0"
+"['me3']" won the round 14 (stack = {'bot': 864.5, 'me3': 1135})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "fold:0"
+"['me3']" won the round 15 (stack = {'bot': 854.5, 'me3': 1145})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "call:10"
+Street "flop" started. (community card = ['S9', 'HJ', 'H3'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "turn" started. (community card = ['S9', 'HJ', 'H3', 'D8'])
+"bot" declared "call:0"
+"me3" declared "call:0"
+Street "river" started. (community card = ['S9', 'HJ', 'H3', 'D8', 'C9'])
+"bot" declared "raise:212.375"
+"me3" declared "fold:0"
+"['bot']" won the round 16 (stack = {'bot': 864.125, 'me3': 1135})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DA', 'CQ', 'SQ'])
+"me3" declared "call:0"
+"bot" declared "fold:0"
+"['me3']" won the round 17 (stack = {'bot': 854.125, 'me3': 1145})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "raise:65"
+"bot" declared "fold:0"
+"['me3']" won the round 18 (stack = {'bot': 844.125, 'me3': 1155})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me3" declared "call:10"
+"bot" declared "fold:0"
+"['me3']" won the round 19 (stack = {'bot': 834.125, 'me3': 1165})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me3" declared "raise:65"
+"bot" declared "fold:0"
+"['me3']" won the round 20 (stack = {'bot': 824.125, 'me3': 1175})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me4" declared "raise:65"
+"bot" declared "fold:0"
+"['me4']" won the round 1 (stack = {'bot': 990, 'me4': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['D8', 'DJ', 'H5'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "turn" started. (community card = ['D8', 'DJ', 'H5', 'S7'])
+"bot" declared "fold:0"
+"['me4']" won the round 2 (stack = {'bot': 980, 'me4': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SQ', 'H8', 'S8'])
+"me4" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SQ', 'H8', 'S8', 'H5'])
+"me4" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SQ', 'H8', 'S8', 'H5', 'SJ'])
+"me4" declared "call:0"
+"bot" declared "call:0"
+"['me4']" won the round 3 (stack = {'bot': 970, 'me4': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['D4', 'HT', 'CJ'])
+"bot" declared "raise:241.25"
+"me4" declared "fold:0"
+"['bot']" won the round 4 (stack = {'bot': 979.75, 'me4': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D2', 'C2', 'H5'])
+"me4" declared "call:0"
+"bot" declared "fold:0"
+"['me4']" won the round 5 (stack = {'bot': 969.75, 'me4': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['CT', 'D9', 'C7'])
+"bot" declared "fold:0"
+"['me4']" won the round 6 (stack = {'bot': 904.75, 'me4': 1095})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "raise:223.6875"
+"me4" declared "fold:0"
+"['bot']" won the round 7 (stack = {'bot': 914.0625, 'me4': 1085})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me4']" won the round 8 (stack = {'bot': 909.0625, 'me4': 1090})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C3', 'SJ', 'C8'])
+"me4" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C3', 'SJ', 'C8', 'CT'])
+"me4" declared "call:0"
+"bot" declared "fold:0"
+"['me4']" won the round 9 (stack = {'bot': 899.0625, 'me4': 1100})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['C5', 'S7', 'C9'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "turn" started. (community card = ['C5', 'S7', 'C9', 'DK'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "river" started. (community card = ['C5', 'S7', 'C9', 'DK', 'C2'])
+"bot" declared "fold:0"
+"['me4']" won the round 10 (stack = {'bot': 889.0625, 'me4': 1110})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me4" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['H5', 'S4', 'C2'])
+"me4" declared "call:0"
+"bot" declared "fold:0"
+"['me4']" won the round 11 (stack = {'bot': 824.0625, 'me4': 1175})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['H6', 'D7', 'HK'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "turn" started. (community card = ['H6', 'D7', 'HK', 'H5'])
+"bot" declared "call:0"
+"me4" declared "raise:233"
+"bot" declared "fold:0"
+"['me4']" won the round 12 (stack = {'bot': 814.0625, 'me4': 1185})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me4" declared "raise:65"
+"bot" declared "fold:0"
+"['me4']" won the round 13 (stack = {'bot': 804.0625, 'me4': 1195})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['S7', 'H6', 'HK'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "turn" started. (community card = ['S7', 'H6', 'HK', 'HT'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "river" started. (community card = ['S7', 'H6', 'HK', 'HT', 'H3'])
+"bot" declared "fold:0"
+"['me4']" won the round 14 (stack = {'bot': 794.0625, 'me4': 1205})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me4" declared "raise:65"
+"bot" declared "fold:0"
+"['me4']" won the round 15 (stack = {'bot': 784.0625, 'me4': 1215})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['C9', 'H3', 'ST'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "turn" started. (community card = ['C9', 'H3', 'ST', 'CJ'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+Street "river" started. (community card = ['C9', 'H3', 'ST', 'CJ', 'D9'])
+"bot" declared "call:0"
+"me4" declared "call:0"
+"['bot']" won the round 16 (stack = {'bot': 794.0625, 'me4': 1205})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "fold:0"
+"['me4']" won the round 17 (stack = {'bot': 784.0625, 'me4': 1215})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "raise:65"
+"bot" declared "fold:0"
+"['me4']" won the round 18 (stack = {'bot': 774.0625, 'me4': 1225})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me4" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D7', 'H2', 'H9'])
+"me4" declared "call:0"
+"bot" declared "fold:0"
+"['me4']" won the round 19 (stack = {'bot': 764.0625, 'me4': 1235})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me4" declared "call:10"
+Street "flop" started. (community card = ['D3', 'C2', 'DJ'])
+"bot" declared "raise:189.765625"
+"me4" declared "fold:0"
+"['bot']" won the round 20 (stack = {'bot': 773.296875, 'me4': 1225})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S8', 'HT', 'H4'])
+"me5" declared "call:0"
+"bot" declared "raise:247.5"
+"me5" declared "fold:0"
+"['bot']" won the round 1 (stack = {'bot': 1009.5, 'me5': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'C8', 'HT'])
+"bot" declared "fold:0"
+"['me5']" won the round 2 (stack = {'bot': 999.5, 'me5': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'CT', 'D9'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'CT', 'D9', 'C6'])
+"me5" declared "call:0"
+"bot" declared "fold:0"
+"['me5']" won the round 3 (stack = {'bot': 989.5, 'me5': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "raise:65"
+"bot" declared "fold:0"
+"['me5']" won the round 4 (stack = {'bot': 979.5, 'me5': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me5" declared "raise:65"
+"bot" declared "fold:0"
+"['me5']" won the round 5 (stack = {'bot': 969.5, 'me5': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['HQ', 'C4', 'H6'])
+"bot" declared "call:0"
+"me5" declared "call:0"
+Street "turn" started. (community card = ['HQ', 'C4', 'H6', 'S4'])
+"bot" declared "call:0"
+"me5" declared "raise:204"
+"bot" declared "fold:0"
+"['me5']" won the round 6 (stack = {'bot': 959.5, 'me5': 1040})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me5" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['S6', 'D4', 'H5'])
+"me5" declared "call:0"
+"bot" declared "fold:0"
+"['me5']" won the round 7 (stack = {'bot': 894.5, 'me5': 1105})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "raise:65"
+"bot" declared "fold:0"
+"['me5']" won the round 8 (stack = {'bot': 884.5, 'me5': 1115})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me5" declared "raise:65"
+"bot" declared "fold:0"
+"['me5']" won the round 9 (stack = {'bot': 874.5, 'me5': 1125})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['C8', 'C4', 'CK'])
+"bot" declared "raise:217.375"
+"me5" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 884.125, 'me5': 1115})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DJ', 'D2', 'H6'])
+"me5" declared "call:0"
+"bot" declared "fold:0"
+"['me5']" won the round 11 (stack = {'bot': 874.125, 'me5': 1125})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['C4', 'S2', 'H2'])
+"bot" declared "call:0"
+"me5" declared "call:0"
+Street "turn" started. (community card = ['C4', 'S2', 'H2', 'CA'])
+"bot" declared "call:0"
+"me5" declared "call:0"
+Street "river" started. (community card = ['C4', 'S2', 'H2', 'CA', 'HT'])
+"bot" declared "call:0"
+"me5" declared "call:0"
+"['bot']" won the round 12 (stack = {'bot': 884.125, 'me5': 1115})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'C5', 'C4'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'C5', 'C4', 'D6'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CQ', 'C5', 'C4', 'D6', 'SA'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 13 (stack = {'bot': 894.125, 'me5': 1105})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['D5', 'D8', 'SQ'])
+"bot" declared "fold:0"
+"['me5']" won the round 14 (stack = {'bot': 884.125, 'me5': 1115})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'C3', 'H8'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'C3', 'H8', 'SA'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DQ', 'C3', 'H8', 'SA', 'CK'])
+"me5" declared "call:0"
+"bot" declared "fold:0"
+"['me5']" won the round 15 (stack = {'bot': 874.125, 'me5': 1125})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['D2', 'CK', 'D3'])
+"bot" declared "raise:217.28125"
+"me5" declared "fold:0"
+"['bot']" won the round 16 (stack = {'bot': 938.84375, 'me5': 1060})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S4', 'D6', 'CK'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S4', 'D6', 'CK', 'H4'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S4', 'D6', 'CK', 'H4', 'C6'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+"['me5']" won the round 17 (stack = {'bot': 928.84375, 'me5': 1070})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "call:10"
+Street "flop" started. (community card = ['S6', 'CK', 'D4'])
+"bot" declared "fold:0"
+"['me5']" won the round 18 (stack = {'bot': 918.84375, 'me5': 1080})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me5" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D6', 'S8', 'C2'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D6', 'S8', 'C2', 'C8'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D6', 'S8', 'C2', 'C8', 'DT'])
+"me5" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 19 (stack = {'bot': 928.84375, 'me5': 1070})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me5" declared "raise:65"
+"bot" declared "fold:0"
+"['me5']" won the round 20 (stack = {'bot': 918.84375, 'me5': 1080})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 1 (stack = {'bot': 990, 'me6': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 2 (stack = {'bot': 980, 'me6': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'H4', 'S5'])
+"me6" declared "call:0"
+"bot" declared "fold:0"
+"['me6']" won the round 3 (stack = {'bot': 970, 'me6': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'DQ', 'CK'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+Street "turn" started. (community card = ['CJ', 'DQ', 'CK', 'D4'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+Street "river" started. (community card = ['CJ', 'DQ', 'CK', 'D4', 'C6'])
+"bot" declared "fold:0"
+"['me6']" won the round 4 (stack = {'bot': 960, 'me6': 1040})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 5 (stack = {'bot': 950, 'me6': 1050})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "call:10"
+Street "flop" started. (community card = ['S4', 'DJ', 'C9'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+Street "turn" started. (community card = ['S4', 'DJ', 'C9', 'C3'])
+"bot" declared "fold:0"
+"['me6']" won the round 6 (stack = {'bot': 940, 'me6': 1060})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 7 (stack = {'bot': 930, 'me6': 1070})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "raise:231.25"
+"me6" declared "raise:502.5"
+"bot" declared "raise:231.25"
+"['me6']" won the round 8 (stack = {'bot': 698.75, 'me6': 1300.5})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C6', 'S9', 'SJ'])
+"me6" declared "call:0"
+"bot" declared "raise:172.1875"
+"me6" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 708.5625, 'me6': 1290.5})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 10 (stack = {'bot': 698.5625, 'me6': 1300.5})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DT', 'S8', 'H5'])
+"me6" declared "call:0"
+"bot" declared "fold:0"
+"['me6']" won the round 11 (stack = {'bot': 688.5625, 'me6': 1310.5})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "call:10"
+Street "flop" started. (community card = ['S6', 'HK', 'D4'])
+"bot" declared "fold:0"
+"['me6']" won the round 12 (stack = {'bot': 678.5625, 'me6': 1320.5})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D2', 'H3', 'S5'])
+"me6" declared "call:0"
+"bot" declared "fold:0"
+"['me6']" won the round 13 (stack = {'bot': 668.5625, 'me6': 1330.5})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "raise:65"
+"bot" declared "fold:0"
+"['me6']" won the round 14 (stack = {'bot': 658.5625, 'me6': 1340.5})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S8', 'CJ', 'C8'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S8', 'CJ', 'C8', 'HK'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S8', 'CJ', 'C8', 'HK', 'D6'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 15 (stack = {'bot': 668.5625, 'me6': 1330.5})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "call:10"
+Street "flop" started. (community card = ['C5', 'D7', 'CA'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+Street "turn" started. (community card = ['C5', 'D7', 'CA', 'H8'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+Street "river" started. (community card = ['C5', 'D7', 'CA', 'H8', 'DK'])
+"bot" declared "call:0"
+"me6" declared "call:0"
+"['bot']" won the round 16 (stack = {'bot': 678.5625, 'me6': 1320.5})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S6', 'H5', 'D5'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S6', 'H5', 'D5', 'H6'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S6', 'H5', 'D5', 'H6', 'C4'])
+"me6" declared "call:0"
+"bot" declared "fold:0"
+"['me6']" won the round 17 (stack = {'bot': 668.5625, 'me6': 1330.5})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me6" declared "call:10"
+Street "flop" started. (community card = ['D3', 'DQ', 'H9'])
+"bot" declared "raise:165.890625"
+"me6" declared "fold:0"
+"['bot']" won the round 18 (stack = {'bot': 677.671875, 'me6': 1320.5})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me6" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DJ', 'C9', 'HQ'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DJ', 'C9', 'HQ', 'HJ'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DJ', 'C9', 'HQ', 'HJ', 'C5'])
+"me6" declared "call:0"
+"bot" declared "call:0"
+"['me6']" won the round 19 (stack = {'bot': 667.671875, 'me6': 1330.5})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me6']" won the round 20 (stack = {'bot': 662.671875, 'me6': 1335.5})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D8', 'SJ', 'DA'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D8', 'SJ', 'DA', 'H4'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D8', 'SJ', 'DA', 'H4', 'D3'])
+"me7" declared "call:0"
+"bot" declared "fold:0"
+"['me7']" won the round 1 (stack = {'bot': 990, 'me7': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "raise:65"
+"bot" declared "fold:0"
+"['me7']" won the round 2 (stack = {'bot': 980, 'me7': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "fold:0"
+"['me7']" won the round 3 (stack = {'bot': 970, 'me7': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['H9', 'H3', 'H5'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "turn" started. (community card = ['H9', 'H3', 'H5', 'D2'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "river" started. (community card = ['H9', 'H3', 'H5', 'D2', 'C9'])
+"bot" declared "fold:0"
+"['me7']" won the round 4 (stack = {'bot': 960, 'me7': 1040})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me7" declared "raise:65"
+"bot" declared "fold:0"
+"['me7']" won the round 5 (stack = {'bot': 950, 'me7': 1050})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['D9', 'D2', 'C7'])
+"bot" declared "fold:0"
+"['me7']" won the round 6 (stack = {'bot': 940, 'me7': 1060})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "fold:0"
+"['me7']" won the round 7 (stack = {'bot': 930, 'me7': 1070})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "raise:231.25"
+"me7" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 939.75, 'me7': 1060})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SK', 'S9', 'CJ'])
+"me7" declared "call:0"
+"bot" declared "raise:232.4375"
+"me7" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 949.3125, 'me7': 1050})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['D4', 'CK', 'DJ'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "turn" started. (community card = ['D4', 'CK', 'DJ', 'HJ'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "river" started. (community card = ['D4', 'CK', 'DJ', 'HJ', 'DQ'])
+"bot" declared "fold:0"
+"['me7']" won the round 10 (stack = {'bot': 939.3125, 'me7': 1060})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'S6', 'C5'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'S6', 'C5', 'D4'])
+"me7" declared "call:0"
+"bot" declared "raise:232.328125"
+"me7" declared "fold:0"
+"['bot']" won the round 11 (stack = {'bot': 948.984375, 'me7': 1050})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['H3', 'H7', 'HK'])
+"bot" declared "raise:235.99609375"
+"me7" declared "fold:0"
+"['bot']" won the round 12 (stack = {'bot': 957.98828125, 'me7': 1040})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me7" declared "raise:65"
+"bot" declared "fold:0"
+"['me7']" won the round 13 (stack = {'bot': 947.98828125, 'me7': 1050})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['S6', 'SJ', 'D3'])
+"bot" declared "fold:0"
+"['me7']" won the round 14 (stack = {'bot': 937.98828125, 'me7': 1060})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me7" declared "raise:65"
+"bot" declared "fold:0"
+"['me7']" won the round 15 (stack = {'bot': 927.98828125, 'me7': 1070})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "call:10"
+Street "flop" started. (community card = ['DK', 'DQ', 'D7'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "turn" started. (community card = ['DK', 'DQ', 'D7', 'H7'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+Street "river" started. (community card = ['DK', 'DQ', 'D7', 'H7', 'S8'])
+"bot" declared "call:0"
+"me7" declared "call:0"
+"['bot']" won the round 16 (stack = {'bot': 937.98828125, 'me7': 1060})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HK', 'H2', 'C7'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HK', 'H2', 'C7', 'H8'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['HK', 'H2', 'C7', 'H8', 'H6'])
+"me7" declared "call:0"
+"bot" declared "raise:231.9970703125"
+"me7" declared "fold:0"
+"['bot']" won the round 17 (stack = {'bot': 946.9912109375, 'me7': 1050})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me7']" won the round 18 (stack = {'bot': 941.9912109375, 'me7': 1055})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me7" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SQ', 'CK', 'D3'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SQ', 'CK', 'D3', 'CA'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SQ', 'CK', 'D3', 'CA', 'SA'])
+"me7" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 19 (stack = {'bot': 951.9912109375, 'me7': 1045})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me7" declared "raise:65"
+"bot" declared "fold:0"
+"['me7']" won the round 20 (stack = {'bot': 941.9912109375, 'me7': 1055})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'HJ', 'H6'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'HJ', 'H6', 'H5'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CQ', 'HJ', 'H6', 'H5', 'HA'])
+"me8" declared "call:0"
+"bot" declared "raise:247.5"
+"me8" declared "fold:0"
+"['bot']" won the round 1 (stack = {'bot': 1009.5, 'me8': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['H4', 'HJ', 'H6'])
+"bot" declared "fold:0"
+"['me8']" won the round 2 (stack = {'bot': 999.5, 'me8': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HK', 'S6', 'CQ'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HK', 'S6', 'CQ', 'C3'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['HK', 'S6', 'CQ', 'C3', 'SQ'])
+"me8" declared "raise:198"
+"bot" declared "raise:247.375"
+"['me8']" won the round 3 (stack = {'bot': 989.5, 'me8': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me8']" won the round 4 (stack = {'bot': 984.5, 'me8': 1015})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HT', 'C5', 'C3'])
+"me8" declared "call:0"
+"bot" declared "raise:243.625"
+"me8" declared "fold:0"
+"['bot']" won the round 5 (stack = {'bot': 993.875, 'me8': 1005})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['HT', 'CJ', 'HJ'])
+"bot" declared "call:0"
+"me8" declared "call:0"
+Street "turn" started. (community card = ['HT', 'CJ', 'HJ', 'DJ'])
+"bot" declared "call:0"
+"me8" declared "raise:199"
+"bot" declared "fold:0"
+"['me8']" won the round 6 (stack = {'bot': 983.875, 'me8': 1015})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C9', 'H3', 'S4'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C9', 'H3', 'S4', 'HJ'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C9', 'H3', 'S4', 'HJ', 'H4'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+"['me8']" won the round 7 (stack = {'bot': 973.875, 'me8': 1025})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['D5', 'SJ', 'HK'])
+"bot" declared "raise:242.21875"
+"me8" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 983.65625, 'me8': 1015})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C3', 'S7', 'ST'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C3', 'S7', 'ST', 'HQ'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C3', 'S7', 'ST', 'HQ', 'CQ'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 9 (stack = {'bot': 993.65625, 'me8': 1005})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'SK', 'D2'])
+"bot" declared "raise:247.1640625"
+"me8" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 1003.4921875, 'me8': 995})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HK', 'DQ', 'SA'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HK', 'DQ', 'SA', 'HA'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['HK', 'DQ', 'SA', 'HA', 'CK'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+"['me8']" won the round 11 (stack = {'bot': 993.4921875, 'me8': 1005})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['H4', 'S6', 'H8'])
+"bot" declared "fold:0"
+"['me8']" won the round 12 (stack = {'bot': 983.4921875, 'me8': 1015})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['ST', 'S4', 'SA'])
+"me8" declared "call:0"
+"bot" declared "fold:0"
+"['me8']" won the round 13 (stack = {'bot': 973.4921875, 'me8': 1025})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "raise:65"
+"bot" declared "fold:0"
+"['me8']" won the round 14 (stack = {'bot': 963.4921875, 'me8': 1035})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'C9', 'D9'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'C9', 'D9', 'CA'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CQ', 'C9', 'D9', 'CA', 'HQ'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 15 (stack = {'bot': 973.4921875, 'me8': 1025})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "raise:65"
+"bot" declared "fold:0"
+"['me8']" won the round 16 (stack = {'bot': 963.4921875, 'me8': 1035})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me8" declared "raise:65"
+"bot" declared "fold:0"
+"['me8']" won the round 17 (stack = {'bot': 953.4921875, 'me8': 1045})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me8" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'DQ', 'C3'])
+"bot" declared "call:0"
+"me8" declared "call:0"
+Street "turn" started. (community card = ['CJ', 'DQ', 'C3', 'CK'])
+"bot" declared "fold:0"
+"['me8']" won the round 18 (stack = {'bot': 943.4921875, 'me8': 1055})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me8" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C8', 'H3', 'C4'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C8', 'H3', 'C4', 'HA'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C8', 'H3', 'C4', 'HA', 'H2'])
+"me8" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 19 (stack = {'bot': 953.4921875, 'me8': 1045})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me8']" won the round 20 (stack = {'bot': 948.4921875, 'me8': 1050})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'HK', 'H2'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H3', 'HK', 'H2', 'C3'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H3', 'HK', 'H2', 'C3', 'CT'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+"['me9']" won the round 1 (stack = {'bot': 990, 'me9': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "raise:65"
+"bot" declared "fold:0"
+"['me9']" won the round 2 (stack = {'bot': 980, 'me9': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me9" declared "raise:65"
+"bot" declared "fold:0"
+"['me9']" won the round 3 (stack = {'bot': 970, 'me9': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "raise:65"
+"bot" declared "fold:0"
+"['me9']" won the round 4 (stack = {'bot': 960, 'me9': 1040})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D2', 'D7', 'H8'])
+"me9" declared "call:0"
+"bot" declared "raise:237.5"
+"me9" declared "fold:0"
+"['bot']" won the round 5 (stack = {'bot': 969.5, 'me9': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "raise:65"
+"bot" declared "fold:0"
+"['me9']" won the round 6 (stack = {'bot': 959.5, 'me9': 1040})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D4', 'H3', 'D6'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D4', 'H3', 'D6', 'S5'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D4', 'H3', 'D6', 'S5', 'C3'])
+"me9" declared "call:0"
+"bot" declared "fold:0"
+"['me9']" won the round 7 (stack = {'bot': 949.5, 'me9': 1050})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "call:10"
+Street "flop" started. (community card = ['S8', 'H4', 'CK'])
+"bot" declared "call:0"
+"me9" declared "call:0"
+Street "turn" started. (community card = ['S8', 'H4', 'CK', 'SA'])
+"bot" declared "call:0"
+"me9" declared "call:0"
+Street "river" started. (community card = ['S8', 'H4', 'CK', 'SA', 'DQ'])
+"bot" declared "raise:236.125"
+"me9" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 959.375, 'me9': 1040})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'S5', 'SQ'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C5', 'S5', 'SQ', 'H3'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C5', 'S5', 'SQ', 'H3', 'C6'])
+"me9" declared "call:0"
+"bot" declared "fold:0"
+"['me9']" won the round 9 (stack = {'bot': 949.375, 'me9': 1050})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "call:10"
+Street "flop" started. (community card = ['C2', 'DQ', 'H5'])
+"bot" declared "fold:0"
+"['me9']" won the round 10 (stack = {'bot': 939.375, 'me9': 1060})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H4', 'D9', 'H7'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H4', 'D9', 'H7', 'D3'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H4', 'D9', 'H7', 'D3', 'CT'])
+"me9" declared "call:0"
+"bot" declared "fold:0"
+"['me9']" won the round 11 (stack = {'bot': 929.375, 'me9': 1070})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "call:10"
+Street "flop" started. (community card = ['H7', 'DK', 'C3'])
+"bot" declared "raise:231.09375"
+"me9" declared "fold:0"
+"['bot']" won the round 12 (stack = {'bot': 939.28125, 'me9': 1060})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'CT', 'D9'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H3', 'CT', 'D9', 'H2'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H3', 'CT', 'D9', 'H2', 'ST'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 13 (stack = {'bot': 949.28125, 'me9': 1050})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "raise:65"
+"bot" declared "fold:0"
+"['me9']" won the round 14 (stack = {'bot': 939.28125, 'me9': 1060})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'D4', 'ST'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'D4', 'ST', 'H7'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CQ', 'D4', 'ST', 'H7', 'CT'])
+"me9" declared "raise:210"
+"bot" declared "fold:0"
+"['me9']" won the round 15 (stack = {'bot': 929.28125, 'me9': 1070})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me9" declared "call:10"
+Street "flop" started. (community card = ['S3', 'HJ', 'SA'])
+"bot" declared "fold:0"
+"['me9']" won the round 16 (stack = {'bot': 919.28125, 'me9': 1080})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S3', 'D9', 'S5'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S3', 'D9', 'S5', 'D3'])
+"me9" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S3', 'D9', 'S5', 'D3', 'HJ'])
+"me9" declared "call:0"
+"bot" declared "raise:227.3203125"
+"me9" declared "call:227.3203125"
+"['bot']" won the round 17 (stack = {'bot': 1155.9609375, 'me9': 842.6796875})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me9']" won the round 18 (stack = {'bot': 1150.9609375, 'me9': 847.6796875})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me9" declared "call:10"
+"bot" declared "fold:0"
+"['me9']" won the round 19 (stack = {'bot': 1140.9609375, 'me9': 857.6796875})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me9']" won the round 20 (stack = {'bot': 1135.9609375, 'me9': 862.6796875})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D4', 'D9', 'C2'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D4', 'D9', 'C2', 'DK'])
+"me10" declared "call:0"
+"bot" declared "raise:247.5"
+"me10" declared "fold:0"
+"['bot']" won the round 1 (stack = {'bot': 1009.5, 'me10': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['S8', 'DJ', 'ST'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "turn" started. (community card = ['S8', 'DJ', 'ST', 'HT'])
+"bot" declared "fold:0"
+"['me10']" won the round 2 (stack = {'bot': 999.5, 'me10': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D6', 'DT', 'D3'])
+"me10" declared "raise:198"
+"bot" declared "fold:0"
+"['me10']" won the round 3 (stack = {'bot': 989.5, 'me10': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['HT', 'SA', 'H2'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "turn" started. (community card = ['HT', 'SA', 'H2', 'S3'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "river" started. (community card = ['HT', 'SA', 'H2', 'S3', 'H7'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+"['bot']" won the round 4 (stack = {'bot': 999.5, 'me10': 1000})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D8', 'C4', 'D7'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D8', 'C4', 'D7', 'DJ'])
+"me10" declared "call:0"
+"bot" declared "raise:247.375"
+"me10" declared "fold:0"
+"['bot']" won the round 5 (stack = {'bot': 1009.125, 'me10': 990})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me10']" won the round 6 (stack = {'bot': 1004.125, 'me10': 995})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H5', 'D3', 'C8'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H5', 'D3', 'C8', 'D9'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H5', 'D3', 'C8', 'D9', 'H2'])
+"me10" declared "call:0"
+"bot" declared "fold:0"
+"['me10']" won the round 7 (stack = {'bot': 994.125, 'me10': 1005})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me10']" won the round 8 (stack = {'bot': 989.125, 'me10': 1010})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "fold:0"
+"['me10']" won the round 9 (stack = {'bot': 979.125, 'me10': 1020})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['D7', 'S2', 'D9'])
+"bot" declared "fold:0"
+"['me10']" won the round 10 (stack = {'bot': 969.125, 'me10': 1030})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "fold:0"
+"['me10']" won the round 11 (stack = {'bot': 959.125, 'me10': 1040})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me10']" won the round 12 (stack = {'bot': 954.125, 'me10': 1045})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'H8', 'S6'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C5', 'H8', 'S6', 'D5'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C5', 'H8', 'S6', 'D5', 'D7'])
+"me10" declared "call:0"
+"bot" declared "raise:236.03125"
+"me10" declared "fold:0"
+"['bot']" won the round 13 (stack = {'bot': 964.09375, 'me10': 1035})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['DT', 'CJ', 'D6'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "turn" started. (community card = ['DT', 'CJ', 'D6', 'H5'])
+"bot" declared "raise:239.7734375"
+"me10" declared "fold:0"
+"['bot']" won the round 14 (stack = {'bot': 973.3203125, 'me10': 1025})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "fold:0"
+"['me10']" won the round 15 (stack = {'bot': 963.3203125, 'me10': 1035})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['H3', 'S4', 'DT'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "turn" started. (community card = ['H3', 'S4', 'DT', 'H5'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "river" started. (community card = ['H3', 'S4', 'DT', 'H5', 'D4'])
+"bot" declared "call:0"
+"me10" declared "raise:205"
+"bot" declared "fold:0"
+"['me10']" won the round 16 (stack = {'bot': 953.3203125, 'me10': 1045})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "fold:0"
+"['me10']" won the round 17 (stack = {'bot': 943.3203125, 'me10': 1055})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['S3', 'C3', 'D5'])
+"bot" declared "fold:0"
+"['me10']" won the round 18 (stack = {'bot': 933.3203125, 'me10': 1065})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me10" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'S7', 'DJ'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S7', 'DJ', 'C8'])
+"me10" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S7', 'DJ', 'C8', 'HT'])
+"me10" declared "call:0"
+"bot" declared "fold:0"
+"['me10']" won the round 19 (stack = {'bot': 923.3203125, 'me10': 1075})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me10" declared "call:10"
+Street "flop" started. (community card = ['H9', 'D7', 'HT'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "turn" started. (community card = ['H9', 'D7', 'HT', 'SQ'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+Street "river" started. (community card = ['H9', 'D7', 'HT', 'SQ', 'SA'])
+"bot" declared "call:0"
+"me10" declared "call:0"
+"['me10']" won the round 20 (stack = {'bot': 913.3203125, 'me10': 1085})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HT', 'H4', 'S3'])
+"me11" declared "call:0"
+"bot" declared "fold:0"
+"['me11']" won the round 1 (stack = {'bot': 990, 'me11': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "call:10"
+Street "flop" started. (community card = ['S8', 'H5', 'CJ'])
+"bot" declared "fold:0"
+"['me11']" won the round 2 (stack = {'bot': 980, 'me11': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DK', 'H6', 'CQ'])
+"me11" declared "call:0"
+"bot" declared "raise:242.5"
+"me11" declared "fold:0"
+"['bot']" won the round 3 (stack = {'bot': 989.5, 'me11': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "raise:65"
+"bot" declared "fold:0"
+"['me11']" won the round 4 (stack = {'bot': 979.5, 'me11': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me11" declared "raise:65"
+"bot" declared "fold:0"
+"['me11']" won the round 5 (stack = {'bot': 969.5, 'me11': 1030})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "call:10"
+Street "flop" started. (community card = ['HT', 'S9', 'S3'])
+"bot" declared "call:0"
+"me11" declared "call:0"
+Street "turn" started. (community card = ['HT', 'S9', 'S3', 'CK'])
+"bot" declared "call:0"
+"me11" declared "call:0"
+Street "river" started. (community card = ['HT', 'S9', 'S3', 'CK', 'ST'])
+"bot" declared "call:0"
+"me11" declared "raise:204"
+"bot" declared "fold:0"
+"['me11']" won the round 6 (stack = {'bot': 959.5, 'me11': 1040})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "fold:0"
+"['me11']" won the round 7 (stack = {'bot': 949.5, 'me11': 1050})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "raise:65"
+"bot" declared "fold:0"
+"['me11']" won the round 8 (stack = {'bot': 939.5, 'me11': 1060})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "raise:232.375"
+"me11" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 949.125, 'me11': 1050})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "call:10"
+Street "flop" started. (community card = ['D5', 'CK', 'D3'])
+"bot" declared "call:0"
+"me11" declared "call:0"
+Street "turn" started. (community card = ['D5', 'CK', 'D3', 'C6'])
+"bot" declared "raise:236.03125"
+"me11" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 959.09375, 'me11': 1040})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H7', 'DA', 'H4'])
+"me11" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H7', 'DA', 'H4', 'D3'])
+"me11" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['H7', 'DA', 'H4', 'D3', 'H8'])
+"me11" declared "call:0"
+"bot" declared "raise:237.2734375"
+"me11" declared "fold:0"
+"['bot']" won the round 11 (stack = {'bot': 968.8203125, 'me11': 1030})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me11']" won the round 12 (stack = {'bot': 963.8203125, 'me11': 1035})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D6', 'H2', 'D8'])
+"me11" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D6', 'H2', 'D8', 'DT'])
+"me11" declared "call:0"
+"bot" declared "fold:0"
+"['me11']" won the round 13 (stack = {'bot': 953.8203125, 'me11': 1045})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me11']" won the round 14 (stack = {'bot': 948.8203125, 'me11': 1050})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'S3', 'D7'])
+"me11" declared "call:0"
+"bot" declared "raise:234.705078125"
+"me11" declared "fold:0"
+"['bot']" won the round 15 (stack = {'bot': 958.115234375, 'me11': 1040})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "call:10"
+Street "flop" started. (community card = ['ST', 'SQ', 'C2'])
+"bot" declared "call:0"
+"me11" declared "call:0"
+Street "turn" started. (community card = ['ST', 'SQ', 'C2', 'S9'])
+"bot" declared "fold:0"
+"['me11']" won the round 16 (stack = {'bot': 948.115234375, 'me11': 1050})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me11" declared "raise:65"
+"bot" declared "fold:0"
+"['me11']" won the round 17 (stack = {'bot': 938.115234375, 'me11': 1060})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "call:10"
+Street "flop" started. (community card = ['SK', 'ST', 'DJ'])
+"bot" declared "call:0"
+"me11" declared "call:0"
+Street "turn" started. (community card = ['SK', 'ST', 'DJ', 'HA'])
+"bot" declared "fold:0"
+"['me11']" won the round 18 (stack = {'bot': 928.115234375, 'me11': 1070})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me11" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'C2', 'C3'])
+"me11" declared "call:0"
+"bot" declared "fold:0"
+"['me11']" won the round 19 (stack = {'bot': 918.115234375, 'me11': 1080})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me11" declared "raise:65"
+"bot" declared "fold:0"
+"['me11']" won the round 20 (stack = {'bot': 908.115234375, 'me11': 1090})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'S6', 'DA'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S6', 'DA', 'DT'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S6', 'DA', 'DT', 'H8'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 1 (stack = {'bot': 1010, 'me12': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "raise:65"
+"bot" declared "fold:0"
+"['me12']" won the round 2 (stack = {'bot': 1000, 'me12': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me12" declared "raise:65"
+"bot" declared "fold:0"
+"['me12']" won the round 3 (stack = {'bot': 990, 'me12': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['D3', 'CK', 'D9'])
+"bot" declared "call:0"
+"me12" declared "call:0"
+Street "turn" started. (community card = ['D3', 'CK', 'D9', 'H3'])
+"bot" declared "call:0"
+"me12" declared "call:0"
+Street "river" started. (community card = ['D3', 'CK', 'D9', 'H3', 'D4'])
+"bot" declared "call:0"
+"me12" declared "call:0"
+"['bot']" won the round 4 (stack = {'bot': 1000, 'me12': 1000})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C7', 'C6', 'S3'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C7', 'C6', 'S3', 'D6'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C7', 'C6', 'S3', 'D6', 'S7'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 5 (stack = {'bot': 1010, 'me12': 990})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['D3', 'HA', 'D8'])
+"bot" declared "raise:251.25"
+"me12" declared "fold:0"
+"['bot']" won the round 6 (stack = {'bot': 1019.75, 'me12': 980})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me12" declared "raise:65"
+"bot" declared "fold:0"
+"['me12']" won the round 7 (stack = {'bot': 1009.75, 'me12': 990})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['D7', 'C2', 'D6'])
+"bot" declared "call:0"
+"me12" declared "call:0"
+Street "turn" started. (community card = ['D7', 'C2', 'D6', 'S4'])
+"bot" declared "call:0"
+"me12" declared "call:0"
+Street "river" started. (community card = ['D7', 'C2', 'D6', 'S4', 'DK'])
+"bot" declared "fold:0"
+"['me12']" won the round 8 (stack = {'bot': 999.75, 'me12': 1000})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D3', 'CQ', 'S2'])
+"me12" declared "call:0"
+"bot" declared "raise:247.4375"
+"me12" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 1009.3125, 'me12': 990})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "raise:65"
+"bot" declared "fold:0"
+"['me12']" won the round 10 (stack = {'bot': 999.3125, 'me12': 1000})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HK', 'SQ', 'S7'])
+"me12" declared "call:0"
+"bot" declared "raise:247.328125"
+"me12" declared "fold:0"
+"['bot']" won the round 11 (stack = {'bot': 1008.984375, 'me12': 990})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['D9', 'C3', 'CK'])
+"bot" declared "fold:0"
+"['me12']" won the round 12 (stack = {'bot': 998.984375, 'me12': 1000})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DA', 'D7', 'DQ'])
+"me12" declared "call:0"
+"bot" declared "raise:247.24609375"
+"me12" declared "fold:0"
+"['bot']" won the round 13 (stack = {'bot': 1008.73828125, 'me12': 990})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "raise:65"
+"bot" declared "fold:0"
+"['me12']" won the round 14 (stack = {'bot': 998.73828125, 'me12': 1000})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DA', 'HJ', 'C3'])
+"me12" declared "call:0"
+"bot" declared "fold:0"
+"['me12']" won the round 15 (stack = {'bot': 988.73828125, 'me12': 1010})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['HJ', 'ST', 'CK'])
+"bot" declared "fold:0"
+"['me12']" won the round 16 (stack = {'bot': 923.73828125, 'me12': 1075})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S2', 'D8', 'C4'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S2', 'D8', 'C4', 'S6'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S2', 'D8', 'C4', 'S6', 'CA'])
+"me12" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 17 (stack = {'bot': 933.73828125, 'me12': 1065})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'H3', 'C7'])
+"bot" declared "fold:0"
+"['me12']" won the round 18 (stack = {'bot': 923.73828125, 'me12': 1075})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me12" declared "call:10"
+"bot" declared "fold:0"
+"['me12']" won the round 19 (stack = {'bot': 913.73828125, 'me12': 1085})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me12" declared "call:10"
+Street "flop" started. (community card = ['H7', 'C9', 'S5'])
+"bot" declared "fold:0"
+"['me12']" won the round 20 (stack = {'bot': 903.73828125, 'me12': 1095})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'H5', 'D5'])
+"me13" declared "raise:330"
+"bot" declared "fold:0"
+"['me13']" won the round 1 (stack = {'bot': 990, 'me13': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['C7', 'S3', 'D8'])
+"bot" declared "fold:0"
+"['me13']" won the round 2 (stack = {'bot': 980, 'me13': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H8', 'S2', 'SK'])
+"me13" declared "call:0"
+"bot" declared "fold:0"
+"['me13']" won the round 3 (stack = {'bot': 970, 'me13': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "raise:65"
+"bot" declared "fold:0"
+"['me13']" won the round 4 (stack = {'bot': 960, 'me13': 1040})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'DT', 'HJ'])
+"me13" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['H3', 'DT', 'HJ', 'C9'])
+"me13" declared "raise:206"
+"bot" declared "raise:237.5"
+"['me13']" won the round 5 (stack = {'bot': 950, 'me13': 1050})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['HA', 'C8', 'S4'])
+"bot" declared "fold:0"
+"['me13']" won the round 6 (stack = {'bot': 940, 'me13': 1060})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me13" declared "raise:65"
+"bot" declared "fold:0"
+"['me13']" won the round 7 (stack = {'bot': 930, 'me13': 1070})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'DJ', 'C2'])
+"bot" declared "fold:0"
+"['me13']" won the round 8 (stack = {'bot': 920, 'me13': 1080})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me13" declared "raise:65"
+"bot" declared "fold:0"
+"['me13']" won the round 9 (stack = {'bot': 910, 'me13': 1090})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['C8', 'SK', 'CK'])
+"bot" declared "raise:226.25"
+"me13" declared "fold:0"
+"['bot']" won the round 10 (stack = {'bot': 919.75, 'me13': 1080})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me13" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['D8', 'S7', 'C8'])
+"me13" declared "call:0"
+"bot" declared "fold:0"
+"['me13']" won the round 11 (stack = {'bot': 854.75, 'me13': 1145})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me13']" won the round 12 (stack = {'bot': 849.75, 'me13': 1150})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C3', 'C9', 'CJ'])
+"me13" declared "call:0"
+"bot" declared "raise:209.9375"
+"me13" declared "fold:0"
+"['bot']" won the round 13 (stack = {'bot': 858.8125, 'me13': 1140})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['S5', 'C2', 'ST'])
+"bot" declared "raise:213.453125"
+"me13" declared "fold:0"
+"['bot']" won the round 14 (stack = {'bot': 868.359375, 'me13': 1130})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C8', 'C7', 'H5'])
+"me13" declared "raise:224"
+"bot" declared "fold:0"
+"['me13']" won the round 15 (stack = {'bot': 858.359375, 'me13': 1140})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "call:10"
+Street "flop" started. (community card = ['DJ', 'C2', 'DT'])
+"bot" declared "call:0"
+"me13" declared "call:0"
+Street "turn" started. (community card = ['DJ', 'C2', 'DT', 'C8'])
+"bot" declared "call:0"
+"me13" declared "call:0"
+Street "river" started. (community card = ['DJ', 'C2', 'DT', 'C8', 'D6'])
+"bot" declared "fold:0"
+"['me13']" won the round 16 (stack = {'bot': 848.359375, 'me13': 1150})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me13" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['H2', 'C6', 'S4'])
+"me13" declared "call:0"
+"bot" declared "fold:0"
+"['me13']" won the round 17 (stack = {'bot': 783.359375, 'me13': 1215})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me13']" won the round 18 (stack = {'bot': 778.359375, 'me13': 1220})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me13" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H3', 'CA', 'S5'])
+"me13" declared "call:0"
+"bot" declared "fold:0"
+"['me13']" won the round 19 (stack = {'bot': 768.359375, 'me13': 1230})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me13" declared "raise:65"
+"bot" declared "fold:0"
+"['me13']" won the round 20 (stack = {'bot': 758.359375, 'me13': 1240})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D9', 'C5', 'D6'])
+"me14" declared "call:0"
+"bot" declared "raise:247.5"
+"me14" declared "fold:0"
+"['bot']" won the round 1 (stack = {'bot': 1009.5, 'me14': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "raise:65"
+"bot" declared "fold:0"
+"['me14']" won the round 2 (stack = {'bot': 999.5, 'me14': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me14" declared "raise:65"
+"bot" declared "fold:0"
+"['me14']" won the round 3 (stack = {'bot': 989.5, 'me14': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "call:10"
+Street "flop" started. (community card = ['H7', 'SQ', 'H3'])
+"bot" declared "fold:0"
+"['me14']" won the round 4 (stack = {'bot': 979.5, 'me14': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D3', 'S8', 'D4'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D3', 'S8', 'D4', 'D7'])
+"me14" declared "call:0"
+"bot" declared "raise:242.375"
+"me14" declared "fold:0"
+"['bot']" won the round 5 (stack = {'bot': 989.125, 'me14': 1010})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "raise:65"
+"bot" declared "fold:0"
+"['me14']" won the round 6 (stack = {'bot': 979.125, 'me14': 1020})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C6', 'SJ', 'D9'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C6', 'SJ', 'D9', 'H6'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C6', 'SJ', 'D9', 'H6', 'H3'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 7 (stack = {'bot': 989.125, 'me14': 1010})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me14']" won the round 8 (stack = {'bot': 984.125, 'me14': 1015})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'S2', 'D4'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'S2', 'D4', 'D8'])
+"me14" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DQ', 'S2', 'D4', 'D8', 'D7'])
+"me14" declared "call:0"
+"bot" declared "raise:243.53125"
+"me14" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 993.59375, 'me14': 1005})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "call:10"
+Street "flop" started. (community card = ['CT', 'HJ', 'DJ'])
+"bot" declared "call:0"
+"me14" declared "call:0"
+Street "turn" started. (community card = ['CT', 'HJ', 'DJ', 'HK'])
+"bot" declared "call:0"
+"me14" declared "call:0"
+Street "river" started. (community card = ['CT', 'HJ', 'DJ', 'HK', 'S3'])
+"bot" declared "call:0"
+"me14" declared "call:0"
+"['me14']" won the round 10 (stack = {'bot': 983.59375, 'me14': 1015})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S3', 'ST', 'S8'])
+"me14" declared "call:0"
+"bot" declared "fold:0"
+"['me14']" won the round 11 (stack = {'bot': 973.59375, 'me14': 1025})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "call:10"
+Street "flop" started. (community card = ['H8', 'HT', 'HJ'])
+"bot" declared "raise:242.1484375"
+"me14" declared "fold:0"
+"['bot']" won the round 12 (stack = {'bot': 983.4453125, 'me14': 1015})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me14" declared "raise:65"
+"bot" declared "fold:0"
+"['me14']" won the round 13 (stack = {'bot': 973.4453125, 'me14': 1025})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "raise:65"
+"bot" declared "fold:0"
+"['me14']" won the round 14 (stack = {'bot': 963.4453125, 'me14': 1035})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D2', 'H8', 'C5'])
+"me14" declared "call:0"
+"bot" declared "raise:238.361328125"
+"me14" declared "fold:0"
+"['bot']" won the round 15 (stack = {'bot': 973.083984375, 'me14': 1025})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "call:10"
+Street "flop" started. (community card = ['C2', 'HJ', 'ST'])
+"bot" declared "call:0"
+"me14" declared "call:0"
+Street "turn" started. (community card = ['C2', 'HJ', 'ST', 'CK'])
+"bot" declared "raise:242.02099609375"
+"me14" declared "fold:0"
+"['bot']" won the round 16 (stack = {'bot': 983.06298828125, 'me14': 1015})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C7', 'DT', 'HT'])
+"me14" declared "call:0"
+"bot" declared "fold:0"
+"['me14']" won the round 17 (stack = {'bot': 973.06298828125, 'me14': 1025})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me14']" won the round 18 (stack = {'bot': 968.06298828125, 'me14': 1030})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me14" declared "call:10"
+"bot" declared "raise:239.5157470703125"
+"me14" declared "fold:0"
+"['bot']" won the round 19 (stack = {'bot': 977.5472412109375, 'me14': 1020})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me14" declared "call:10"
+Street "flop" started. (community card = ['D6', 'CQ', 'D2'])
+"bot" declared "fold:0"
+"['me14']" won the round 20 (stack = {'bot': 967.5472412109375, 'me14': 1030})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me15" declared "call:10"
+"bot" declared "fold:0"
+"['me15']" won the round 1 (stack = {'bot': 990, 'me15': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 2 (stack = {'bot': 980, 'me15': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 3 (stack = {'bot': 970, 'me15': 1030})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['HA', 'S7', 'H6'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "turn" started. (community card = ['HA', 'S7', 'H6', 'S8'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "river" started. (community card = ['HA', 'S7', 'H6', 'S8', 'C5'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+"['bot']" won the round 4 (stack = {'bot': 980, 'me15': 1020})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me15" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S6', 'S7', 'SA'])
+"me15" declared "raise:202"
+"bot" declared "call:202"
+Street "turn" started. (community card = ['S6', 'S7', 'SA', 'H3'])
+"me15" declared "raise:161"
+"bot" declared "fold:0"
+"['me15']" won the round 5 (stack = {'bot': 768, 'me15': 1232})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['C7', 'C2', 'DA'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "turn" started. (community card = ['C7', 'C2', 'DA', 'H8'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "river" started. (community card = ['C7', 'C2', 'DA', 'H8', 'D7'])
+"bot" declared "call:0"
+"me15" declared "raise:244"
+"bot" declared "call:244"
+"['me15']" won the round 6 (stack = {'bot': 514, 'me15': 1486})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 7 (stack = {'bot': 504, 'me15': 1496})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'S6', 'HK'])
+"bot" declared "fold:0"
+"['me15']" won the round 8 (stack = {'bot': 494, 'me15': 1506})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 9 (stack = {'bot': 484, 'me15': 1516})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me15']" won the round 10 (stack = {'bot': 479, 'me15': 1521})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 11 (stack = {'bot': 469, 'me15': 1531})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['D4', 'C6', 'DA'])
+"bot" declared "raise:116.0"
+"me15" declared "fold:0"
+"['bot']" won the round 12 (stack = {'bot': 479.0, 'me15': 1521})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 13 (stack = {'bot': 469.0, 'me15': 1531})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['S5', 'H7', 'CT'])
+"bot" declared "raise:116.0"
+"me15" declared "fold:0"
+"['bot']" won the round 14 (stack = {'bot': 479.0, 'me15': 1521})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 15 (stack = {'bot': 469.0, 'me15': 1531})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "fold:0"
+"['me15']" won the round 16 (stack = {'bot': 464.0, 'me15': 1536})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me15" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S5', 'CJ', 'CA'])
+"me15" declared "call:0"
+"bot" declared "fold:0"
+"['me15']" won the round 17 (stack = {'bot': 454.0, 'me15': 1546})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "call:10"
+Street "flop" started. (community card = ['C5', 'HA', 'DA'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "turn" started. (community card = ['C5', 'HA', 'DA', 'S9'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+Street "river" started. (community card = ['C5', 'HA', 'DA', 'S9', 'CK'])
+"bot" declared "call:0"
+"me15" declared "call:0"
+"['me15']" won the round 18 (stack = {'bot': 444.0, 'me15': 1556})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me15" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HA', 'H5', 'SJ'])
+"me15" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HA', 'H5', 'SJ', 'HK'])
+"me15" declared "call:0"
+"bot" declared "raise:108.5"
+"me15" declared "fold:0"
+"['bot']" won the round 19 (stack = {'bot': 453.5, 'me15': 1546})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me15" declared "raise:65"
+"bot" declared "fold:0"
+"['me15']" won the round 20 (stack = {'bot': 443.5, 'me15': 1556})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SQ', 'DK', 'HA'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SQ', 'DK', 'HA', 'H5'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SQ', 'DK', 'HA', 'H5', 'D3'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+"['me16']" won the round 1 (stack = {'bot': 990, 'me16': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['HK', 'D6', 'D5'])
+"bot" declared "fold:0"
+"['me16']" won the round 2 (stack = {'bot': 980, 'me16': 1020})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SK', 'H4', 'D4'])
+"me16" declared "call:0"
+"bot" declared "raise:242.5"
+"me16" declared "fold:0"
+"['bot']" won the round 3 (stack = {'bot': 989.5, 'me16': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['HK', 'H9', 'S5'])
+"bot" declared "raise:246.125"
+"me16" declared "fold:0"
+"['bot']" won the round 4 (stack = {'bot': 999.375, 'me16': 1000})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "fold:0"
+"['me16']" won the round 5 (stack = {'bot': 989.375, 'me16': 1010})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['CJ', 'S6', 'C2'])
+"bot" declared "fold:0"
+"['me16']" won the round 6 (stack = {'bot': 979.375, 'me16': 1020})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S9', 'S6', 'HJ'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S9', 'S6', 'HJ', 'H7'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S9', 'S6', 'HJ', 'H7', 'H8'])
+"me16" declared "raise:202"
+"bot" declared "call:202"
+"['me16']" won the round 7 (stack = {'bot': 767.375, 'me16': 1232})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "raise:65"
+"bot" declared "fold:0"
+"['me16']" won the round 8 (stack = {'bot': 757.375, 'me16': 1242})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HT', 'C2', 'S8'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HT', 'C2', 'S8', 'D3'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['HT', 'C2', 'S8', 'D3', 'S4'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 9 (stack = {'bot': 767.375, 'me16': 1232})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['S7', 'HQ', 'CT'])
+"bot" declared "fold:0"
+"['me16']" won the round 10 (stack = {'bot': 757.375, 'me16': 1242})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S9', 'CQ', 'H7'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['S9', 'CQ', 'H7', 'H3'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['S9', 'CQ', 'H7', 'H3', 'DA'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+"['me16']" won the round 11 (stack = {'bot': 747.375, 'me16': 1252})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['D8', 'S8', 'C3'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "turn" started. (community card = ['D8', 'S8', 'C3', 'H7'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "river" started. (community card = ['D8', 'S8', 'C3', 'H7', 'H5'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+"['bot']" won the round 12 (stack = {'bot': 757.375, 'me16': 1242})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me16" declared "raise:65"
+"bot" declared "fold:0"
+"['me16']" won the round 13 (stack = {'bot': 747.375, 'me16': 1252})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['C7', 'CK', 'S8'])
+"bot" declared "fold:0"
+"['me16']" won the round 14 (stack = {'bot': 737.375, 'me16': 1262})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C6', 'H9', 'H6'])
+"me16" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C6', 'H9', 'H6', 'C5'])
+"me16" declared "call:0"
+"bot" declared "fold:0"
+"['me16']" won the round 15 (stack = {'bot': 727.375, 'me16': 1272})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['S7', 'D5', 'C7'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "turn" started. (community card = ['S7', 'D5', 'C7', 'CQ'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "river" started. (community card = ['S7', 'D5', 'C7', 'CQ', 'D3'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+"['bot']" won the round 16 (stack = {'bot': 737.375, 'me16': 1262})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me16" declared "call:10"
+"bot" declared "fold:0"
+"['me16']" won the round 17 (stack = {'bot': 727.375, 'me16': 1272})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['SK', 'S5', 'ST'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "turn" started. (community card = ['SK', 'S5', 'ST', 'CJ'])
+"bot" declared "call:0"
+"me16" declared "call:0"
+Street "river" started. (community card = ['SK', 'S5', 'ST', 'CJ', 'D2'])
+"bot" declared "fold:0"
+"['me16']" won the round 18 (stack = {'bot': 717.375, 'me16': 1282})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me16" declared "raise:65"
+"bot" declared "fold:0"
+"['me16']" won the round 19 (stack = {'bot': 707.375, 'me16': 1292})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me16" declared "call:10"
+Street "flop" started. (community card = ['HT', 'S6', 'SJ'])
+"bot" declared "raise:175.59375"
+"me16" declared "fold:0"
+"['bot']" won the round 20 (stack = {'bot': 716.78125, 'me16': 1282})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D9', 'DQ', 'HK'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D9', 'DQ', 'HK', 'DJ'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['D9', 'DQ', 'HK', 'DJ', 'HJ'])
+"me17" declared "call:0"
+"bot" declared "raise:247.5"
+"me17" declared "fold:0"
+"['bot']" won the round 1 (stack = {'bot': 1009.5, 'me17': 990})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "raise:65"
+"bot" declared "call:65"
+Street "flop" started. (community card = ['S3', 'C8', 'S9'])
+"bot" declared "raise:251.125"
+"me17" declared "fold:0"
+"['bot']" won the round 2 (stack = {'bot': 1074.375, 'me17': 925})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C4', 'SK', 'CT'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C4', 'SK', 'CT', 'D9'])
+"me17" declared "call:0"
+"bot" declared "fold:0"
+"['me17']" won the round 3 (stack = {'bot': 1064.375, 'me17': 935})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['DT', 'S9', 'S5'])
+"bot" declared "call:0"
+"me17" declared "call:0"
+Street "turn" started. (community card = ['DT', 'S9', 'S5', 'C2'])
+"bot" declared "fold:0"
+"['me17']" won the round 4 (stack = {'bot': 1054.375, 'me17': 945})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C9', 'HT', 'CJ'])
+"me17" declared "raise:187"
+"bot" declared "fold:0"
+"['me17']" won the round 5 (stack = {'bot': 1044.375, 'me17': 955})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'DQ', 'H8'])
+"bot" declared "raise:259.84375"
+"me17" declared "fold:0"
+"['bot']" won the round 6 (stack = {'bot': 1053.53125, 'me17': 945})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 7 (stack = {'bot': 1043.53125, 'me17': 955})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['C5', 'S8', 'H4'])
+"bot" declared "raise:259.6328125"
+"me17" declared "fold:0"
+"['bot']" won the round 8 (stack = {'bot': 1052.8984375, 'me17': 945})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S5', 'DK', 'HA'])
+"me17" declared "call:0"
+"bot" declared "raise:260.724609375"
+"me17" declared "fold:0"
+"['bot']" won the round 9 (stack = {'bot': 1062.173828125, 'me17': 935})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['HA', 'CJ', 'C4'])
+"bot" declared "fold:0"
+"['me17']" won the round 10 (stack = {'bot': 1052.173828125, 'me17': 945})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['CK', 'C3', 'S9'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['CK', 'C3', 'S9', 'ST'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['CK', 'C3', 'S9', 'ST', 'HJ'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 11 (stack = {'bot': 1062.173828125, 'me17': 935})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['ST', 'D2', 'D5'])
+"bot" declared "fold:0"
+"['me17']" won the round 12 (stack = {'bot': 1052.173828125, 'me17': 945})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 13 (stack = {'bot': 1042.173828125, 'me17': 955})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "call:10"
+Street "flop" started. (community card = ['CK', 'ST', 'D8'])
+"bot" declared "fold:0"
+"['me17']" won the round 14 (stack = {'bot': 1032.173828125, 'me17': 965})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C6', 'CT', 'C8'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C6', 'CT', 'C8', 'D8'])
+"me17" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C6', 'CT', 'C8', 'D8', 'H8'])
+"me17" declared "raise:191"
+"bot" declared "raise:255.54345703125"
+"['me17']" won the round 15 (stack = {'bot': 1022.173828125, 'me17': 975})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 16 (stack = {'bot': 1012.173828125, 'me17': 985})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 17 (stack = {'bot': 1002.173828125, 'me17': 995})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 18 (stack = {'bot': 992.173828125, 'me17': 1005})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me17" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['S3', 'H4', 'CA'])
+"me17" declared "call:0"
+"bot" declared "fold:0"
+"['me17']" won the round 19 (stack = {'bot': 982.173828125, 'me17': 1015})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me17" declared "raise:65"
+"bot" declared "fold:0"
+"['me17']" won the round 20 (stack = {'bot': 972.173828125, 'me17': 1025})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me18" declared "raise:65"
+"bot" declared "raise:247.5"
+"me18" declared "raise:480.0"
+"bot" declared "raise:247.5"
+"['me18']" won the round 1 (stack = {'bot': 752.5, 'me18': 1247.0})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me18" declared "call:10"
+Street "flop" started. (community card = ['C9', 'C6', 'S9'])
+"bot" declared "call:0"
+"me18" declared "raise:247"
+"bot" declared "call:247"
+Street "turn" started. (community card = ['C9', 'C6', 'S9', 'C2'])
+"bot" declared "raise:186.875"
+"me18" declared "raise:373.75"
+"bot" declared "raise:-1"
+"['me18']" won the round 2 (stack = {'bot': 308.625, 'me18': 1690.25})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me18" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'S3', 'C7'])
+"me18" declared "call:0"
+"bot" declared "fold:0"
+"['me18']" won the round 3 (stack = {'bot': 298.625, 'me18': 1700.25})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me18" declared "call:10"
+Street "flop" started. (community card = ['C9', 'C3', 'H6'])
+"bot" declared "call:0"
+"me18" declared "call:0"
+Street "turn" started. (community card = ['C9', 'C3', 'H6', 'D8'])
+"bot" declared "call:0"
+"me18" declared "call:0"
+Street "river" started. (community card = ['C9', 'C3', 'H6', 'D8', 'D5'])
+"bot" declared "raise:73.40625"
+"me18" declared "fold:0"
+"['bot']" won the round 4 (stack = {'bot': 308.21875, 'me18': 1690.25})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me18" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DK', 'D4', 'S2'])
+"me18" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DK', 'D4', 'S2', 'DT'])
+"me18" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DK', 'D4', 'S2', 'DT', 'S7'])
+"me18" declared "call:0"
+"bot" declared "fold:0"
+"['me18']" won the round 5 (stack = {'bot': 298.21875, 'me18': 1700.25})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me18" declared "call:10"
+Street "flop" started. (community card = ['C2', 'C6', 'SK'])
+"bot" declared "call:0"
+"me18" declared "call:0"
+Street "turn" started. (community card = ['C2', 'C6', 'SK', 'S3'])
+"bot" declared "raise:73.3046875"
+"me18" declared "fold:0"
+"['bot']" won the round 6 (stack = {'bot': 307.9140625, 'me18': 1690.25})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me18" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DK', 'HQ', 'ST'])
+"me18" declared "call:0"
+"bot" declared "raise:74.478515625"
+"me18" declared "fold:0"
+"['bot']" won the round 7 (stack = {'bot': 317.435546875, 'me18': 1680.25})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me18" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'C8', 'HT'])
+"bot" declared "call:0"
+"me18" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'C8', 'HT', 'H3'])
+"bot" declared "fold:0"
+"['me18']" won the round 8 (stack = {'bot': 307.435546875, 'me18': 1690.25})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me18" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['HK', 'D6', 'DK'])
+"me18" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['HK', 'D6', 'DK', 'C5'])
+"me18" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['HK', 'D6', 'DK', 'C5', 'ST'])
+"me18" declared "call:0"
+"bot" declared "fold:0"
+"['me18']" won the round 9 (stack = {'bot': 297.435546875, 'me18': 1700.25})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me18" declared "call:10"
+Street "flop" started. (community card = ['S9', 'C7', 'C2'])
+"bot" declared "call:0"
+"me18" declared "call:0"
+Street "turn" started. (community card = ['S9', 'C7', 'C2', 'D9'])
+"bot" declared "call:0"
+"me18" declared "raise:338"
+"bot" declared "call:338"
+Street "river" started. (community card = ['S9', 'C7', 'C2', 'D9', 'SQ'])
+"['me18']" won the round 10 (stack = {'bot': 0.0, 'me18': 1996.25})
+Started the round 1
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D4', 'DK', 'D8'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D4', 'DK', 'D8', 'D3'])
+"me19" declared "raise:198"
+"bot" declared "raise:247.5"
+"['me19']" won the round 1 (stack = {'bot': 990, 'me19': 1010})
+Started the round 2
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['H8', 'H7', 'C2'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "turn" started. (community card = ['H8', 'H7', 'C2', 'D4'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "river" started. (community card = ['H8', 'H7', 'C2', 'D4', 'DK'])
+"bot" declared "raise:246.25"
+"me19" declared "fold:0"
+"['bot']" won the round 2 (stack = {'bot': 999.75, 'me19': 1000})
+Started the round 3
+Street "preflop" started. (community card = [])
+"me19" declared "raise:65"
+"bot" declared "fold:0"
+"['me19']" won the round 3 (stack = {'bot': 989.75, 'me19': 1010})
+Started the round 4
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'S4', 'C2'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S4', 'C2', 'DJ'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S4', 'C2', 'DJ', 'C5'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+"['bot']" won the round 4 (stack = {'bot': 999.75, 'me19': 1000})
+Started the round 5
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "raise:247.4375"
+"me19" declared "fold:0"
+"['bot']" won the round 5 (stack = {'bot': 1009.3125, 'me19': 990})
+Started the round 6
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['C8', 'C6', 'H6'])
+"bot" declared "call:0"
+"me19" declared "raise:196"
+"bot" declared "fold:0"
+"['me19']" won the round 6 (stack = {'bot': 999.3125, 'me19': 1000})
+Started the round 7
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SA', 'DJ', 'DA'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SA', 'DJ', 'DA', 'C6'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SA', 'DJ', 'DA', 'C6', 'HK'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 7 (stack = {'bot': 1009.3125, 'me19': 990})
+Started the round 8
+Street "preflop" started. (community card = [])
+"bot" declared "raise:251.078125"
+"me19" declared "raise:542.15625"
+"bot" declared "raise:251.078125"
+"['me19']" won the round 8 (stack = {'bot': 758.234375, 'me19': 1240.84375})
+Started the round 9
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C5', 'C9', 'D3'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C5', 'C9', 'D3', 'C4'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C5', 'C9', 'D3', 'C4', 'D9'])
+"me19" declared "call:0"
+"bot" declared "raise:187.05859375"
+"me19" declared "call:187.05859375"
+"['bot']" won the round 9 (stack = {'bot': 955.17578125, 'me19': 1043.78515625})
+Started the round 10
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['C5', 'ST', 'C6'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "turn" started. (community card = ['C5', 'ST', 'C6', 'S4'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "river" started. (community card = ['C5', 'ST', 'C6', 'S4', 'HQ'])
+"bot" declared "fold:0"
+"['me19']" won the round 10 (stack = {'bot': 945.17578125, 'me19': 1053.78515625})
+Started the round 11
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['H6', 'S3', 'DT'])
+"me19" declared "call:0"
+"bot" declared "fold:0"
+"['me19']" won the round 11 (stack = {'bot': 935.17578125, 'me19': 1063.78515625})
+Started the round 12
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "raise:65"
+"bot" declared "fold:0"
+"['me19']" won the round 12 (stack = {'bot': 925.17578125, 'me19': 1073.78515625})
+Started the round 13
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['C7', 'C5', 'C3'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['C7', 'C5', 'C3', 'D5'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['C7', 'C5', 'C3', 'D5', 'S3'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+"['me19']" won the round 13 (stack = {'bot': 915.17578125, 'me19': 1083.78515625})
+Started the round 14
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "raise:65"
+"bot" declared "fold:0"
+"['me19']" won the round 14 (stack = {'bot': 905.17578125, 'me19': 1093.78515625})
+Started the round 15
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['SA', 'DQ', 'S8'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['SA', 'DQ', 'S8', 'DT'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['SA', 'DQ', 'S8', 'DT', 'S4'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+"['bot']" won the round 15 (stack = {'bot': 915.17578125, 'me19': 1083.78515625})
+Started the round 16
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['D6', 'CA', 'H3'])
+"bot" declared "raise:227.5439453125"
+"me19" declared "fold:0"
+"['bot']" won the round 16 (stack = {'bot': 924.6318359375, 'me19': 1073.78515625})
+Started the round 17
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['DJ', 'HJ', 'D9'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['DJ', 'HJ', 'D9', 'DQ'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "river" started. (community card = ['DJ', 'HJ', 'D9', 'DQ', 'DA'])
+"me19" declared "call:0"
+"bot" declared "raise:228.657958984375"
+"me19" declared "fold:0"
+"['bot']" won the round 17 (stack = {'bot': 933.973876953125, 'me19': 1063.78515625})
+Started the round 18
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "raise:65"
+"bot" declared "fold:0"
+"['me19']" won the round 18 (stack = {'bot': 923.973876953125, 'me19': 1073.78515625})
+Started the round 19
+Street "preflop" started. (community card = [])
+"me19" declared "call:10"
+"bot" declared "call:10"
+Street "flop" started. (community card = ['D4', 'DQ', 'H2'])
+"me19" declared "call:0"
+"bot" declared "call:0"
+Street "turn" started. (community card = ['D4', 'DQ', 'H2', 'SQ'])
+"me19" declared "call:0"
+"bot" declared "raise:228.49346923828125"
+"me19" declared "call:228.49346923828125"
+Street "river" started. (community card = ['D4', 'DQ', 'H2', 'SQ', 'C2'])
+"me19" declared "raise:167"
+"bot" declared "raise:228.49346923828125"
+"['me19']" won the round 19 (stack = {'bot': 685.4804077148438, 'me19': 1311.2916870117188})
+Started the round 20
+Street "preflop" started. (community card = [])
+"bot" declared "call:10"
+"me19" declared "call:10"
+Street "flop" started. (community card = ['S9', 'H8', 'HQ'])
+"bot" declared "call:0"
+"me19" declared "call:0"
+Street "turn" started. (community card = ['S9', 'H8', 'HQ', 'C3'])
+"bot" declared "fold:0"
+"['me19']" won the round 20 (stack = {'bot': 675.4804077148438, 'me19': 1321.2916870117188})
+===========================
+{'name': 'bot', 'uuid': 'pqofxxikgqqvkezusrlhps', 'stack': 672.849853515625, 'state': 'participating'}
+{'name': 'me0', 'uuid': 'pxlkopqcnrkxevbxwlqpsw', 'stack': 1325.10009765625, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'xkswpardylyorqhgiqdztq', 'stack': 694.8466796875, 'state': 'participating'}
+{'name': 'me1', 'uuid': 'rdsfivhijqoqbhzninmqqg', 'stack': 1304, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'dribuvhsdtolxjicxhddfm', 'stack': 903.2647705078125, 'state': 'participating'}
+{'name': 'me2', 'uuid': 'vkoqltqnazyqiqnsstpojd', 'stack': 1095, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'bydkiiajwroeraagyozhqj', 'stack': 824.125, 'state': 'participating'}
+{'name': 'me3', 'uuid': 'xoqfkizvnyfksbdadtyxfg', 'stack': 1175, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'oixjjwvycufihrkykbhdor', 'stack': 773.296875, 'state': 'participating'}
+{'name': 'me4', 'uuid': 'cynzqkrbaikgxwmpehufrr', 'stack': 1225, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'fhgendoagkufgyebfgeogf', 'stack': 918.84375, 'state': 'participating'}
+{'name': 'me5', 'uuid': 'fcyiqorfwpnxzqhtzfracg', 'stack': 1080, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'hrjliygzjwobtsankqodml', 'stack': 662.671875, 'state': 'participating'}
+{'name': 'me6', 'uuid': 'xqwilkzlevfttmpowirmpv', 'stack': 1335.5, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'usymuwapjlepqwdjfdonaa', 'stack': 941.9912109375, 'state': 'participating'}
+{'name': 'me7', 'uuid': 'urgywrmfzbyzoumkoojupy', 'stack': 1055, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'wxabmwycavwycnlkaabsje', 'stack': 948.4921875, 'state': 'participating'}
+{'name': 'me8', 'uuid': 'vmochrivnpyggbsmmbdfum', 'stack': 1050, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'umlswfeskytarpckaqpsxz', 'stack': 1135.9609375, 'state': 'participating'}
+{'name': 'me9', 'uuid': 'lajatwhigdkzogfsapzjgo', 'stack': 862.6796875, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'ujpbjhfukbgxilqyguxlqs', 'stack': 913.3203125, 'state': 'participating'}
+{'name': 'me10', 'uuid': 'qbjdzsddkjgdkhztridxqx', 'stack': 1085, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'nnkmojyihjjnloqmwrkbiw', 'stack': 908.115234375, 'state': 'participating'}
+{'name': 'me11', 'uuid': 'mtlnxhxzswqvxqcztllptu', 'stack': 1090, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'wiszvceealgoofhfqteeno', 'stack': 903.73828125, 'state': 'participating'}
+{'name': 'me12', 'uuid': 'aeuabwjdpsoobygdfrhtvu', 'stack': 1095, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'olzcxsbuwacnkzhbdftyac', 'stack': 758.359375, 'state': 'participating'}
+{'name': 'me13', 'uuid': 'slqmliokvkzqtbeonxwvat', 'stack': 1240, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'dsgvriwqbykfhqidngblwn', 'stack': 967.5472412109375, 'state': 'participating'}
+{'name': 'me14', 'uuid': 'qcehftvjdmayjomyplihil', 'stack': 1030, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'znzbvglnwumveghefkihwt', 'stack': 443.5, 'state': 'participating'}
+{'name': 'me15', 'uuid': 'ezjxhsbbriqxwxjmevpmxn', 'stack': 1556, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'hcpycpzeiaungmsowuvzab', 'stack': 716.78125, 'state': 'participating'}
+{'name': 'me16', 'uuid': 'jaznzgoprwmnpoeokkkhmk', 'stack': 1282, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'lskalwkityizwepusyowim', 'stack': 972.173828125, 'state': 'participating'}
+{'name': 'me17', 'uuid': 'vsfugesagtqhxazuvviztb', 'stack': 1025, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'kxlfcszjzlxlrflifxodoc', 'stack': 0, 'state': 'folded'}
+{'name': 'me18', 'uuid': 'pqmgumnvehujrcyptubuia', 'stack': 1996.25, 'state': 'participating'}
+===========================
+{'name': 'bot', 'uuid': 'qiopnrxcaqntbifkzyradt', 'stack': 675.4804077148438, 'state': 'participating'}
+{'name': 'me19', 'uuid': 'naidqivrvzhpuptvnqvdoo', 'stack': 1321.2916870117188, 'state': 'participating'}
+1 : 19
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[15735.359069824219, 24227.82147216797]
+bot 3
